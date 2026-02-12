@@ -9,7 +9,10 @@ water = float(input("Kilolitre(s) of water:"))
 def rocket():
   distanceFromTop = 20
   while distanceFromTop > 0:
-    print("\n         MARS")
+    print("\n           _  _")
+    print("\n         /      \ ")
+    print("\n        |  MARS  |")
+    print("\n         \ _  _ /")    
     print("\n" * distanceFromTop)
     print("           /\ ")
     print("           ||")
